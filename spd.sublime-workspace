@@ -1,0 +1,1791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ses",
+				"sesi"
+			],
+			[
+				"back",
+				"backend"
+			],
+			[
+				"login",
+				"loginLink"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"pingat",
+				"pingat"
+			],
+			[
+				"undel",
+				"undeleteLink"
+			],
+			[
+				"pinga",
+				"pingat"
+			],
+			[
+				"show",
+				"showDeleted"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"delete",
+				"deleteLink"
+			],
+			[
+				"age",
+				"agestr"
+			],
+			[
+				"ass",
+				"asset"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"tag",
+				"tagged"
+			],
+			[
+				"chun",
+				"chunked"
+			],
+			[
+				"chu",
+				"chunked"
+			],
+			[
+				"chunk",
+				"chunkParser"
+			],
+			[
+				"tokeni",
+				"tokenized"
+			],
+			[
+				"wor",
+				"words"
+			],
+			[
+				"word",
+				"word_tokenize"
+			],
+			[
+				"python",
+				"pythonly"
+			],
+			[
+				"fil",
+				"filtered_sentence"
+			],
+			[
+				"stop",
+				"stop_words"
+			],
+			[
+				"st",
+				"stop_words"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"fetch",
+				"fetchPosts"
+			],
+			[
+				"calon",
+				"calonHistory"
+			],
+			[
+				"sesi",
+				"sesi_t"
+			],
+			[
+				"ve",
+				"viewContent"
+			],
+			[
+				"pin",
+				"pingats"
+			],
+			[
+				"cal",
+				"calonHistoryG"
+			],
+			[
+				"ping",
+				"pingats"
+			],
+			[
+				"calonH",
+				"calonH"
+			],
+			[
+				"sena",
+				"senaraiCalon"
+			],
+			[
+				"tahu",
+				"tahunStat"
+			],
+			[
+				"tahun",
+				"tahun"
+			],
+			[
+				"caln",
+				"calonCount"
+			],
+			[
+				"calo",
+				"calonCount"
+			],
+			[
+				"yr",
+				"yrStart"
+			],
+			[
+				"ca",
+				"calonCount"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"where",
+				"whereHas"
+			],
+			[
+				"kel",
+				"kelayakanCount"
+			],
+			[
+				"kela",
+				"kelayakanCount"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"wher",
+				"whereHas"
+			],
+			[
+				"whe",
+				"whereHas"
+			],
+			[
+				"yr_",
+				"yr_to"
+			],
+			[
+				"nama",
+				"nama_pendek"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"s",
+				"stat"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"att",
+				"attached"
+			],
+			[
+				"jenis",
+				"jenis_login"
+			],
+			[
+				"array_fil",
+				"array_filter"
+			],
+			[
+				"title",
+				"title_case"
+			],
+			[
+				"date_cre",
+				"date_create_from_format"
+			],
+			[
+				"date_from",
+				"date_create_from_format"
+			],
+			[
+				"salin",
+				"salinanIc"
+			],
+			[
+				"jeni",
+				"jenis_login"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"nama_pe",
+				"nama_pendek"
+			],
+			[
+				"car",
+				"card-panel"
+			],
+			[
+				"css",
+				"materialize-css"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"modal-",
+				"modal-body"
+			],
+			[
+				"pinagt",
+				"pingatSet"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tar",
+				"tarikh_tutup"
+			],
+			[
+				"tari",
+				"tarikh_buka"
+			],
+			[
+				"click",
+				"clickLink"
+			],
+			[
+				"bro",
+				"browse"
+			],
+			[
+				"clikc",
+				"clickLink"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"pre",
+				"press"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Sete",
+				"Seterusnya"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"br",
+				"browser"
+			],
+			[
+				"asser",
+				"assertSee"
+			],
+			[
+				"pen",
+				"pengguna"
+			],
+			[
+				"logn",
+				"loginAs"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"kateg",
+				"kategori_cetakan"
+			],
+			[
+				"cs",
+				"csrf_token"
+			],
+			[
+				"tarikh",
+				"tarikh_buka"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"asset",
+				"assertSee"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"sal",
+				"salinanIc"
+			],
+			[
+				"stor",
+				"storeAsFilename"
+			],
+			[
+				"kata",
+				"katalaluan_confirmation"
+			],
+			[
+				"filena",
+				"filename"
+			],
+			[
+				"file",
+				"filesystem"
+			],
+			[
+				"ce",
+				"cetak"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"enableE",
+				"enableEdit"
+			],
+			[
+				"ea",
+				"enableEdit"
+			],
+			[
+				"enab",
+				"enableEditForStatus"
+			],
+			[
+				"icN",
+				"icNumber"
+			],
+			[
+				"sali",
+				"salinan_ic"
+			],
+			[
+				"with",
+				"withInput"
+			],
+			[
+				"salina",
+				"salinan_ic"
+			],
+			[
+				"salinan",
+				"salinanIc"
+			],
+			[
+				"saln",
+				"salinan_ic"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"L",
+				"LoginModel"
+			],
+			[
+				"dun",
+				"dunAdminRole"
+			],
+			[
+				"autoo",
+				"autofocus\tAttr"
+			],
+			[
+				"sna",
+				"setSenarai"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"files",
+				"filesystem"
+			],
+			[
+				"File",
+				"Filesystem"
+			],
+			[
+				"fin",
+				"fileName"
+			],
+			[
+				"slinan",
+				"salinan_ic"
+			],
+			[
+				"porta",
+				"portal_electrify"
+			],
+			[
+				"CreateApp",
+				"CreatesApplication"
+			],
+			[
+				"kate",
+				"kategoriCetakan"
+			],
+			[
+				"methi",
+				"method_field\tL5 Method Field"
+			],
+			[
+				"crs",
+				"csrf_field\tL5 Csrf Field"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"role",
+				"rolePendaftar"
+			],
+			[
+				"seed",
+				"seedPath"
+			],
+			[
+				"sql",
+				"sqlFile"
+			],
+			[
+				"log",
+				"login_nokp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 715,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax",
+				"Set Syntax: YAML"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"newvi",
+				"File: New View into File"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"cmm",
+				"Git: Commit"
+			],
+			[
+				"checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"commt",
+				"Git: Commit"
+			],
+			[
+				"chek",
+				"Git: Checkout Current File"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"comman",
+				"Git: Custom Command"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"toro",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+			"'view.settings().erase(\"color_scheme\")'",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/spd"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/spd2/app/Http/Controllers/UserController.php",
+		"/D/xampp/htdocs/spd2/routes/web.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/pencalonan_form.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/sesi_list.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/sesi_edit.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/index.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/sesi_add.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/pencalonan_add.blade.php",
+		"/D/xampp/htdocs/spd2/database/migrations/2018_07_24_041813_sesi.php",
+		"/D/xampp/htdocs/spd2/app/Pencalonan.php",
+		"/D/xampp/htdocs/spd2/app/pencalonan.php",
+		"/D/xampp/htdocs/spd2/app/Http/Controllers/SesiController.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/sesi_form.blade.php",
+		"/D/xampp/htdocs/spd1/resources/views/common/delete_button.blade.php",
+		"/D/xampp/htdocs/spd1/app/Http/Controllers/PingatController.php",
+		"/D/xampp/htdocs/spd1/resources/views/backend/pingat_list.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/backend/layout.blade.php",
+		"/D/xampp/htdocs/spd2/app/Sesi.php",
+		"/C/Users/C2D.XYZ/.ssh/id_rsa",
+		"/D/xampp/htdocs/spd2/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/D/xampp/htdocs/spd2/app/Exceptions/Handler.php",
+		"/D/xampp/htdocs/spd2/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/D/xampp/htdocs/spd2/resources/views/common/alert.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/frontend/login.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/frontend/layout.blade.php",
+		"/D/xampp/htdocs/spd2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/D/xampp/htdocs/spd2/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php",
+		"/D/xampp/htdocs/spd2/app/Http/Controllers/Auth/LoginController.php",
+		"/D/xampp/htdocs/spd2/public/backend/index.html",
+		"/D/xampp/htdocs/spd2/resources/views/frontend/index.blade.php",
+		"/D/laragon/www/sisdar/web/resources/views/portal/layout.blade.php",
+		"/D/laragon/www/sisdar/web/resources/views/portal/login.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/frontend/register.blade.php",
+		"/D/xampp/htdocs/spd2/resources/views/common/form_error.blade.php",
+		"/D/xampp/htdocs/spd/app/Http/Controllers/UserController.php",
+		"/D/xampp/htdocs/spd2/.env",
+		"/D/xampp/htdocs/spd1/resources/views/frontend/register.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/frontend/register.blade.php",
+		"/D/xampp/htdocs/spd1/resources/views/common/form_error.blade.php",
+		"/D/xampp/htdocs/spd/routes/web.php",
+		"/D/xampp/htdocs/spd/resources/views/frontend/layout.blade.php",
+		"/D/xampp/htdocs/spd2/readme.md",
+		"/D/xampp/htdocs/spd/routes/console.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_074950_pencalonan.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_074936_calon.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_041702_pingat.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_041813_sesi.php",
+		"/D/xampp/htdocs/spd/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/xampp/htdocs/spd/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/xampp/htdocs/spd/app/Http/Controllers/PortalController.php",
+		"/D/xampp/htdocs/spd1/.env",
+		"/D/xampp/htdocs/spd/resources/views/frontend/index.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/frontend/login.blade.php",
+		"/D/xampp/htdocs/spd/.env",
+		"/D/xampp/htdocs/spd/app/Http/Controllers/Controller.php",
+		"/D/xampp/htdocs/spd1/app/Http/Controllers/SesiController.php",
+		"/C/Users/C2D.XYZ/Desktop/laravel_note.md",
+		"/C/Users/C2D.XYZ/Desktop/laravel_note.txt",
+		"/D/xampp/htdocs/spd/resources/views/home/welcome.blade.php",
+		"/D/xampp/htdocs/spd/public/index.php",
+		"/D/xampp/htdocs/spd/.gitignore",
+		"/D/xampp/htdocs/spd/composer.json",
+		"/D/xampp/htdocs/spd/config/app.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/index.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/sesi_add.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/pingat_list.blade.php",
+		"/D/xampp/htdocs/spd/app/Http/Controllers/PingatController.php",
+		"/D/xampp/htdocs/spd/app/Pingat.php",
+		"/D/xampp/htdocs/spd/README.md",
+		"/D/xampp/htdocs/spd/resources/views/common/delete_button.blade.php",
+		"/C/Users/C2D.XYZ/Desktop/K14_topics.txt",
+		"/D/xampp/htdocs/spd/K14.md",
+		"/D/xampp/htdocs/spd/resources/views/backend/layout.blade.php",
+		"/C/Users/C2D.XYZ/Desktop/git_intro/index1.html",
+		"/D/xampp/htdocs/spd1/routes/web.php",
+		"/C/Users/C2D.XYZ/Desktop/git_intro/index.html",
+		"/D/xampp/htdocs/spd/resources/views/backend/pingat_edit.blade.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_20_061957_pingat.php",
+		"/D/xampp/htdocs/spd/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php",
+		"/D/xampp/htdocs/spd/K14.txt",
+		"/C/Users/C2D.XYZ/Desktop/my_K14.txt",
+		"/C/Users/C2D.XYZ/Desktop/tst.php",
+		"/E/AppGame/App/Microsoft.Visual.Studio.Ultimate.2012-REMEDY/remedy.nfo",
+		"/E/kptm/Akasyah Multimedia FYP Resources/README.md",
+		"/D/xampp/htdocs/spd1/database/migrations/2018_07_20_061936_sesi.php",
+		"/D/laragon/www/sisdar/web/resources/views/admin/master.blade.php",
+		"/D/xampp/htdocs/spd1/public/backend/pages/index.html",
+		"/D/xampp/htdocs/spd1/resources/views/backend/layout.blade.php",
+		"/D/xampp/htdocs/spd1/resources/views/backend/index.blade.php",
+		"/D/xampp/htdocs/spd1/resources/views/backend/sesi_add.blade.php",
+		"/D/laragon/www/sisdar/web/resources/views/admin/sesi_edit.blade.php",
+		"/D/xampp/htdocs/spd1/app/Http/Controllers/Sesi.php",
+		"/D/xampp/htdocs/spd1/public/backend/js/sb-admin-2.js",
+		"/D/xampp/htdocs/spd1/resources/views/frontend/login.blade.php",
+		"/D/xampp/htdocs/spd1/app/Http/Controllers/UserController.php",
+		"/D/xampp/htdocs/spd1/database/migrations/2018_07_20_061303_pencalonan.php",
+		"/D/xampp/htdocs/spd1/database/migrations/2018_07_20_061957_pingat.php",
+		"/D/xampp/htdocs/spd1/resources/views/frontend/index.blade.php",
+		"/D/xampp/htdocs/spd1/storage/framework/views/9be2082e7835c3b1b47a3467e1506ed5ba3f09ca.php",
+		"/D/xampp/htdocs/spd1/storage/framework/views/5e80e880900b9748896d6e66cad22ebb974b174f.php",
+		"/D/xampp/htdocs/spd1/resources/views/common/alert.blade.php",
+		"/D/xampp/htdocs/spd1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/D/laragon/www/sisdar/web/app/Http/Controllers/Auth/LoginController.php",
+		"/D/laragon/www/sisdar/web/resources/views/common/alert.blade.php",
+		"/D/xampp/htdocs/spd1/app/Http/Controllers/Auth/LoginController.php",
+		"/D/laragon/www/sisdar/web/resources/views/common/form_error.blade.php",
+		"/D/laragon/www/sisdar/web/app/Http/Controllers/NewsController.php",
+		"/D/laragon/www/sisdar/web/resources/views/admin/pengguna_add.blade.php",
+		"/D/laragon/www/sisdar/web/resources/views/admin/pengguna/form.blade.php",
+		"/D/xampp/htdocs/spd1/database/migrations/2018_07_19_200708_calon.php",
+		"/D/xampp/htdocs/spd1/app/Calon.php",
+		"/D/xampp/htdocs/spd1/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/xampp/htdocs/spd1/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/xampp/htdocs/spd1/resources/views/frontend/layout.blade.php",
+		"/D/xampp/htdocs/spd1/app/Http/Controllers/PortalController.php",
+		"/D/xampp/htdocs/spd1/config/app.php",
+		"/D/xampp/htdocs/spd1/webpack.mix.js",
+		"/D/xampp/htdocs/spd1/app/Http/Controllers/CalonController.php",
+		"/D/laragon/www/sisdar/web/routes/web.php",
+		"/D/xampp/htdocs/spd/app/Http/Controllers/Auth/LoginController.php",
+		"/D/xampp/htdocs/spd/resources/views/frontend/master.blade.php",
+		"/D/xampp/htdocs/spd/config/database.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_19_075403_calon.php",
+		"/D/xampp/htdocs/spd/app/Calon.php",
+		"/D/laragon/www/sisdar/web/resources/views/blank/master.blade.php",
+		"/D/laragon/www/sisdar/web/resources/views/blank.blade.php",
+		"/D/xampp/htdocs/spd/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/controllers/HomeController.stub",
+		"/D/xampp/htdocs/spd-full/routes/web.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 616.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"open",
+			"ic",
+			"logout",
+			"AuthenticationException",
+			"Pencalonan",
+			"status",
+			"id",
+			"inputEmail3",
+			"email",
+			"inputEmail3",
+			"deletePermanent",
+			"delete",
+			"courses",
+			"b",
+			"strong",
+			"i",
+			"inputPassword3",
+			"UI Elem",
+			"act",
+			"pages",
+			"index.html",
+			"warning",
+			"status",
+			"req",
+			"attempt",
+			"form_error",
+			"email",
+			"inputEmail3",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"md",
+			"\"...\"",
+			"6",
+			"h3",
+			"homestead",
+			"user",
+			"UserController",
+			"Roml",
+			"4096,87380,256960,4096,16384,256960",
+			"sent_tonkeize",
+			"blog-main",
+			"'blog-main'",
+			"blog-main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 208.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "spd.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mig sesi",
+				"database\\migrations\\2018_07_24_041813_sesi.php"
+			],
+			[
+				"usercon",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"sesicon",
+				"app\\Http\\Controllers\\SesiController.php"
+			],
+			[
+				"data sesi",
+				"database\\migrations\\2018_07_24_041813_sesi.php"
+			],
+			[
+				"UserController",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"migraion sesi",
+				"database\\migrations\\2018_07_24_041813_sesi.php"
+			],
+			[
+				"migra sesi",
+				"database\\migrations\\2018_07_24_041813_sesi.php"
+			],
+			[
+				"app sesi",
+				"app\\Sesi.php"
+			],
+			[
+				"sesi",
+				"app\\Sesi.php"
+			],
+			[
+				"sesiCon",
+				"app\\Http\\Controllers\\SesiController.php"
+			],
+			[
+				"data mig sesi",
+				"database\\migrations\\2018_07_24_041813_sesi.php"
+			],
+			[
+				"Illuminate\\Foundation\\Exceptions\\Handler",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"mi Authenticate",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php"
+			],
+			[
+				"AuthenticatesUsers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+			],
+			[
+				"logincon",
+				"app\\Http\\Controllers\\Auth\\LoginController.php"
+			],
+			[
+				"res back inde",
+				"resources\\views\\backend\\index.blade.php"
+			],
+			[
+				"back index",
+				"public\\backend\\index.html"
+			],
+			[
+				"res fron index",
+				"resources\\views\\frontend\\index.blade.php"
+			],
+			[
+				"user",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"res view lay",
+				"resources\\views\\frontend\\layout.blade.php"
+			],
+			[
+				"view common aler",
+				"resources\\views\\common\\alert.blade.php"
+			],
+			[
+				"rou web",
+				"routes\\web.php"
+			],
+			[
+				"res front login",
+				"resources\\views\\frontend\\login.blade.php"
+			],
+			[
+				"resour register",
+				"resources\\views\\frontend\\register.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"viewregister",
+				"resources\\views\\frontend\\register.blade.php"
+			],
+			[
+				"view register",
+				"resources\\views\\frontend\\register.blade.php"
+			],
+			[
+				"register",
+				"resources\\views\\frontend\\register.blade.php"
+			],
+			[
+				"password_rese",
+				"database\\migrations\\2014_10_12_100000_create_password_resets_table.php"
+			],
+			[
+				"controller porta",
+				"app\\Http\\Controllers\\PortalController.php"
+			],
+			[
+				"view rgister",
+				"resources\\views\\frontend\\register.blade.php"
+			],
+			[
+				"resource backe index",
+				"resources\\views\\backend\\index.blade.php"
+			],
+			[
+				"resources bakend sesi",
+				"resources\\views\\backend\\sesi_add.blade.php"
+			],
+			[
+				"delete",
+				"resources\\views\\common\\delete_button.blade.php"
+			],
+			[
+				"res layout",
+				"resources\\views\\backend\\layout.blade.php"
+			],
+			[
+				"resource back inde",
+				"resources\\views\\backend\\index.blade.php"
+			],
+			[
+				"resource index",
+				"resources\\views\\frontend\\index.blade.php"
+			],
+			[
+				"app pingat",
+				"app\\Pingat.php"
+			],
+			[
+				"migr pingat",
+				"database\\migrations\\2018_07_20_061957_pingat.php"
+			],
+			[
+				"migration pingat",
+				"database\\migrations\\2018_07_20_061957_pingat.php"
+			],
+			[
+				"migrarion pingat",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\PendingResourceRegistration.php"
+			],
+			[
+				"pingat",
+				"app\\Pingat.php"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"PingatController",
+				"app\\Http\\Controllers\\PingatController.php"
+			],
+			[
+				"rou we",
+				"routes\\web.php"
+			],
+			[
+				"migration/",
+				"database\\migrations\\2018_07_20_061936_sesi.php"
+			],
+			[
+				"route web",
+				"routes\\web.php"
+			],
+			[
+				"roue we",
+				"routes\\web.php"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"homecon",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Console\\stubs\\make\\controllers\\HomeController.stub"
+			],
+			[
+				"sisdar",
+				"config\\sisdar.php"
+			],
+			[
+				"sisda",
+				"sisdar.sublime-project"
+			],
+			[
+				"devcontroller",
+				"app\\Http\\Controllers\\DevController.php"
+			],
+			[
+				"routeweb",
+				"routes\\web.php"
+			],
+			[
+				"configlog",
+				"config\\log-viewer.php"
+			],
+			[
+				"modelsrole",
+				"app\\Models\\Role.php"
+			],
+			[
+				"tests/brow/",
+				"tests\\Browser\\LaporanTest.php"
+			],
+			[
+				"tests/brow/sta",
+				"tests\\Browser\\StatTest.php"
+			],
+			[
+				"databaselogin",
+				"database\\migrations\\2016_09_22_194906_login.php"
+			],
+			[
+				"penggunaform",
+				"resources\\views\\admin\\pengguna\\form.blade.php"
+			],
+			[
+				"portal",
+				"app\\Http\\Controllers\\PortalController.php"
+			],
+			[
+				"database/",
+				"database\\factories\\CalonHistoryFactory.php"
+			],
+			[
+				"databaseseede",
+				"database\\seeds\\before_extract\\calon.sql"
+			],
+			[
+				"registertest",
+				"tests\\Browser\\RegisterLoginTest.php"
+			],
+			[
+				"logintest",
+				"tests\\Browser\\LoginTest.php"
+			],
+			[
+				"laporan",
+				"tests\\Browser\\LaporanTest.php"
+			],
+			[
+				"wordgen",
+				"app\\WordGen.php"
+			],
+			[
+				"dun_pdf",
+				"resources\\views\\admin\\laporan\\dun_pdf.blade.php"
+			],
+			[
+				"adminlaporan",
+				"resources\\views\\admin\\laporan.blade.php"
+			],
+			[
+				"modelssesi",
+				"app\\Models\\Sesi.php"
+			],
+			[
+				"alporancon",
+				"app\\Http\\Controllers\\LaporanController.php"
+			],
+			[
+				"configapp",
+				"config\\app.php"
+			],
+			[
+				"compose",
+				"composer.json"
+			],
+			[
+				"pragmarx/support/src/helpers.php",
+				"vendor\\pragmarx\\support\\src\\helpers.php"
+			],
+			[
+				"modelsesi",
+				"app\\Models\\Sesi.php"
+			],
+			[
+				"calon",
+				"app\\Models\\CalonHistory.php"
+			],
+			[
+				"illuminate/database/eloquent/collection",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Collection.php"
+			],
+			[
+				"models",
+				"app\\Models\\Sesi.php"
+			],
+			[
+				"modellogin",
+				"app\\Models\\Login.php"
+			],
+			[
+				"illuminamodel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"form_error",
+				"resources\\views\\common\\form_error.blade.php"
+			],
+			[
+				"commonform",
+				"resources\\views\\common\\form_error.blade.php"
+			],
+			[
+				"statistik_pendaftaran",
+				"resources\\views\\admin\\statistik_pendaftaran.blade.php"
+			],
+			[
+				"statistikcon",
+				"app\\Http\\Controllers\\StatistikController.php"
+			],
+			[
+				"viewdev",
+				"resources\\views\\dev.blade.php"
+			],
+			[
+				"login",
+				"app\\Models\\Login.php"
+			],
+			[
+				"penggunamana",
+				"app\\Http\\Controllers\\PenggunaManageController.php"
+			],
+			[
+				"configentr",
+				"config\\entrust.php"
+			],
+			[
+				"entrustusertrait",
+				"vendor\\zizaco\\entrust\\src\\Entrust\\Traits\\EntrustUserTrait.php"
+			],
+			[
+				"role",
+				"app\\Models\\Role.php"
+			],
+			[
+				"pencalonantest",
+				"tests\\Browser\\PencalonanTest.php"
+			],
+			[
+				"modelrole",
+				"app\\Models\\Role.php"
+			],
+			[
+				"dev",
+				"app\\Http\\Controllers\\DevController.php"
+			],
+			[
+				"devco",
+				"app\\Http\\Controllers\\DevController.php"
+			],
+			[
+				"devcon",
+				"app\\Http\\Controllers\\DevController.php"
+			],
+			[
+				"registerlogintest",
+				"tests\\Browser\\RegisterLoginTest.php"
+			],
+			[
+				"pencalonan",
+				"app\\Http\\Controllers\\PencalonanController.php"
+			],
+			[
+				"pencalonan1per",
+				"resources\\views\\admin\\pencalonan\\edit_1peribadi.blade.php"
+			],
+			[
+				"portalcon",
+				"app\\Http\\Controllers\\PortalController.php"
+			],
+			[
+				"userfile",
+				"app\\Userfile.php"
+			],
+			[
+				"commonalert",
+				"resources\\views\\common\\alert.blade.php"
+			],
+			[
+				"interactswithpivottable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\Concerns\\InteractsWithPivotTable.php"
+			],
+			[
+				"belongtoma",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\BelongsToMany.php"
+			],
+			[
+				"illuminatemodel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"illuminacollection",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php"
+			],
+			[
+				"eloquemodel",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"authuser",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\User.php"
+			],
+			[
+				"configentrust",
+				"config\\entrust.php"
+			],
+			[
+				"databgramma",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Grammar.php"
+			],
+			[
+				"databasegramma",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Grammar.php"
+			],
+			[
+				"blank",
+				"resources\\views\\blank.blade.php"
+			],
+			[
+				"hasattributes",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Concerns\\HasAttributes.php"
+			],
+			[
+				"619e008c1be06e6fc96e7bb09be56fa1ac970d17",
+				"storage\\framework\\views\\619e008c1be06e6fc96e7bb09be56fa1ac970d17.php"
+			],
+			[
+				"penggnaform",
+				"resources\\views\\admin\\pengguna\\form.blade.php"
+			],
+			[
+				"superadminpengg",
+				"resources\\views\\admin\\superadmin\\pengguna_edit.blade.php"
+			],
+			[
+				"adminpenggunalis",
+				"resources\\views\\admin\\pengguna_list.blade.php"
+			],
+			[
+				"portaltest",
+				"tests\\Browser\\PortalTest.php"
+			],
+			[
+				"manage_list_dt",
+				"resources\\assets\\js\\admin\\pencalonan\\manage_list_dt.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"assetsesidt",
+				"resources\\assets\\js\\admin\\sesi\\datatable.js"
+			],
+			[
+				"logincontroller",
+				"app\\Http\\Controllers\\Auth\\LoginController.php"
+			],
+			[
+				"laprancon",
+				"app\\Http\\Controllers\\LaporanController.php"
+			],
+			[
+				"assetglobal",
+				"resources\\assets\\sass\\materialize\\_global.scss"
+			],
+			[
+				"pencalona",
+				"app\\Http\\Controllers\\PencalonanController.php"
+			],
+			[
+				"senarai",
+				"resources\\views\\admin\\pencalonan\\senarai_pencalonan_all_v2.blade.php"
+			],
+			[
+				"publicmate",
+				"public\\css\\materialize-css.css"
+			],
+			[
+				"publimat",
+				"public\\css\\materialize-css.css"
+			],
+			[
+				"materialize-css-card.css",
+				"public\\css\\materialize-css-card.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\spd2\\spd2.sublime-project"
+			],
+			[
+				"l4",
+				"D:\\xampp\\htdocs\\laravel-543\\l543_test.sublime-project"
+			],
+			[
+				"l54",
+				"D:\\xampp\\htdocs\\laravel-543\\l543_test.sublime-project"
+			],
+			[
+				"l5",
+				"D:\\xampp\\htdocs\\laravel-543\\l543_test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "toRoute",
+		"selected_items":
+		[
+			[
+				"toRoute",
+				"toRoute"
+			],
+			[
+				"createFromFormat",
+				"createFromFormat"
+			],
+			[
+				"assertDontSee",
+				"assertDontSee"
+			],
+			[
+				"attachR",
+				"attachRoles"
+			],
+			[
+				"attach",
+				"attach"
+			],
+			[
+				"todo",
+				"todo"
+			],
+			[
+				"xmlEscape",
+				"xmlEscape"
+			],
+			[
+				"BaseCollection",
+				"BaseCollection"
+			],
+			[
+				"reflow",
+				"reflow"
+			],
+			[
+				"_render_frame",
+				"_render_frame"
+			],
+			[
+				"laporan",
+				"testDownloadDefaultLaporan"
+			],
+			[
+				"findAll",
+				"findCallable"
+			]
+		],
+		"width": 667.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
