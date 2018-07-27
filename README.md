@@ -6,3 +6,5 @@
 4. `copy .env.example .env`
 5. `composer install`
 5. `php artisan key:generate`
+
+Goto: localhost/spd10/public
