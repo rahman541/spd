@@ -4,9 +4,11 @@ namespace App;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
+use Zizaco\Entrust\Traits\EntrustUserTrait;
 
 class User extends Authenticatable
 {
+    use EntrustUserTrait; // add this trait to your user model
     use Notifiable;
 
     /**
@@ -26,4 +28,9 @@ class User extends Authenticatable
     protected $hidden = [
         'password', 'remember_token',
     ];
+
+    // Define relationship one-to-many
+    public function calons() {
+        return $this->hasMany('App\Calon', 'user_id', 'id');
+    }
 }

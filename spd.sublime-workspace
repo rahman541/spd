@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"user",
+				"userAdmin"
+			],
+			[
 				"ses",
 				"sesi"
 			],
@@ -14,10 +18,6 @@
 			[
 				"login",
 				"loginLink"
-			],
-			[
-				"user",
-				"user"
 			],
 			[
 				"pingat",
@@ -520,10 +520,80 @@
 	"buffers":
 	[
 		{
-			"file": ".env",
+			"file": "resources/views/backend/index.blade.php",
 			"settings":
 			{
-				"buffer_size": 715,
+				"buffer_size": 4111,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/backend/sesi_show.blade.php",
+			"settings":
+			{
+				"buffer_size": 646,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/backend/sesi_add.blade.php",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Exceptions/Handler.php",
+			"settings":
+			{
+				"buffer_size": 1733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/backend/pencalonan_index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1391,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/backend/pencalonan_edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 591,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Calon.php",
+			"settings":
+			{
+				"buffer_size": 253,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/backend/pencalonan_form.blade.php",
+			"settings":
+			{
+				"buffer_size": 1483,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/backend/pencalonan_add.blade.php",
+			"settings":
+			{
+				"buffer_size": 484,
 				"line_ending": "Unix"
 			}
 		}
@@ -883,6 +953,50 @@
 	],
 	"file_history":
 	[
+		"/D/xampp/htdocs/spd/app/Http/Controllers/PencalonanController.php",
+		"/D/xampp/htdocs/spd/database/seeds/RoleSeed.php",
+		"/D/xampp/htdocs/spd/app/User.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/layout.blade.php",
+		"/D/xampp/htdocs/spd/app/Exceptions/Handler.php",
+		"/D/xampp/apache/logs/access.log",
+		"/D/xampp/htdocs/spd/routes/web.php",
+		"/D/xampp/htdocs/spd/config/app.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_27_041438_entrust_setup_tables.php",
+		"/D/xampp/htdocs/spd/database/seeds/DatabaseSeeder.php",
+		"/D/xampp/htdocs/spd/.env",
+		"/D/xampp/htdocs/spd/.env.example",
+		"/D/xampp/htdocs/spd/app/Http/Controllers/UserController.php",
+		"/D/xampp/htdocs/spd/composer.json",
+		"/D/xampp/htdocs/spd/app/Http/Kernel.php",
+		"/D/xampp/htdocs/spd/app/Permission.php",
+		"/D/xampp/htdocs/spd/app/Role.php",
+		"/D/xampp/htdocs/spd/vendor/zizaco/entrust/src/commands/MigrationCommand.php",
+		"/D/xampp/htdocs/spd/database/seeds/UserSeed.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_074936_calon.php",
+		"/D/xampp/htdocs/spd/app/Http/Controllers/SesiController.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/pencalonan_add.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/pencalonan_form.blade.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_074950_pencalonan.php",
+		"/D/xampp/htdocs/spd/app/Calon.php",
+		"/D/xampp/htdocs/spd/app/Pencalonan.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/sesi_index.blade.php",
+		"/D/xampp/htdocs/spd/app/Sesi.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/sesi_show.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/frontend/layout.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/sesi_add.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/sesi_edit.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/sesi_form.blade.php",
+		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_041813_sesi.php",
+		"/D/xampp/htdocs/spd/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/D/xampp/htdocs/spd/resources/views/backend/index.blade.php",
+		"/D/xampp/htdocs/spd/public/backend/pages/index.html",
+		"/D/xampp/htdocs/spd/public/backend/index.html",
+		"/D/xampp/htdocs/spd/public/frontend/index.html",
+		"/D/xampp/htdocs/spd/resources/views/frontend/login.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/frontend/index.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/common/form_error.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/frontend/register.blade.php",
+		"/D/xampp/htdocs/spd/resources/views/common/alert.blade.php",
 		"/D/xampp/htdocs/spd2/app/Http/Controllers/UserController.php",
 		"/D/xampp/htdocs/spd2/routes/web.php",
 		"/D/xampp/htdocs/spd2/resources/views/backend/pencalonan_form.blade.php",
@@ -917,26 +1031,16 @@
 		"/D/laragon/www/sisdar/web/resources/views/portal/login.blade.php",
 		"/D/xampp/htdocs/spd2/resources/views/frontend/register.blade.php",
 		"/D/xampp/htdocs/spd2/resources/views/common/form_error.blade.php",
-		"/D/xampp/htdocs/spd/app/Http/Controllers/UserController.php",
 		"/D/xampp/htdocs/spd2/.env",
 		"/D/xampp/htdocs/spd1/resources/views/frontend/register.blade.php",
-		"/D/xampp/htdocs/spd/resources/views/frontend/register.blade.php",
 		"/D/xampp/htdocs/spd1/resources/views/common/form_error.blade.php",
-		"/D/xampp/htdocs/spd/routes/web.php",
-		"/D/xampp/htdocs/spd/resources/views/frontend/layout.blade.php",
 		"/D/xampp/htdocs/spd2/readme.md",
 		"/D/xampp/htdocs/spd/routes/console.php",
-		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_074950_pencalonan.php",
-		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_074936_calon.php",
 		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_041702_pingat.php",
-		"/D/xampp/htdocs/spd/database/migrations/2018_07_24_041813_sesi.php",
 		"/D/xampp/htdocs/spd/database/migrations/2014_10_12_000000_create_users_table.php",
 		"/D/xampp/htdocs/spd/database/migrations/2014_10_12_100000_create_password_resets_table.php",
 		"/D/xampp/htdocs/spd/app/Http/Controllers/PortalController.php",
 		"/D/xampp/htdocs/spd1/.env",
-		"/D/xampp/htdocs/spd/resources/views/frontend/index.blade.php",
-		"/D/xampp/htdocs/spd/resources/views/frontend/login.blade.php",
-		"/D/xampp/htdocs/spd/.env",
 		"/D/xampp/htdocs/spd/app/Http/Controllers/Controller.php",
 		"/D/xampp/htdocs/spd1/app/Http/Controllers/SesiController.php",
 		"/C/Users/C2D.XYZ/Desktop/laravel_note.md",
@@ -944,10 +1048,6 @@
 		"/D/xampp/htdocs/spd/resources/views/home/welcome.blade.php",
 		"/D/xampp/htdocs/spd/public/index.php",
 		"/D/xampp/htdocs/spd/.gitignore",
-		"/D/xampp/htdocs/spd/composer.json",
-		"/D/xampp/htdocs/spd/config/app.php",
-		"/D/xampp/htdocs/spd/resources/views/backend/index.blade.php",
-		"/D/xampp/htdocs/spd/resources/views/backend/sesi_add.blade.php",
 		"/D/xampp/htdocs/spd/resources/views/backend/pingat_list.blade.php",
 		"/D/xampp/htdocs/spd/app/Http/Controllers/PingatController.php",
 		"/D/xampp/htdocs/spd/app/Pingat.php",
@@ -955,7 +1055,6 @@
 		"/D/xampp/htdocs/spd/resources/views/common/delete_button.blade.php",
 		"/C/Users/C2D.XYZ/Desktop/K14_topics.txt",
 		"/D/xampp/htdocs/spd/K14.md",
-		"/D/xampp/htdocs/spd/resources/views/backend/layout.blade.php",
 		"/C/Users/C2D.XYZ/Desktop/git_intro/index1.html",
 		"/D/xampp/htdocs/spd1/routes/web.php",
 		"/C/Users/C2D.XYZ/Desktop/git_intro/index.html",
@@ -981,40 +1080,11 @@
 		"/D/xampp/htdocs/spd1/database/migrations/2018_07_20_061303_pencalonan.php",
 		"/D/xampp/htdocs/spd1/database/migrations/2018_07_20_061957_pingat.php",
 		"/D/xampp/htdocs/spd1/resources/views/frontend/index.blade.php",
-		"/D/xampp/htdocs/spd1/storage/framework/views/9be2082e7835c3b1b47a3467e1506ed5ba3f09ca.php",
-		"/D/xampp/htdocs/spd1/storage/framework/views/5e80e880900b9748896d6e66cad22ebb974b174f.php",
-		"/D/xampp/htdocs/spd1/resources/views/common/alert.blade.php",
-		"/D/xampp/htdocs/spd1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
-		"/D/laragon/www/sisdar/web/app/Http/Controllers/Auth/LoginController.php",
-		"/D/laragon/www/sisdar/web/resources/views/common/alert.blade.php",
-		"/D/xampp/htdocs/spd1/app/Http/Controllers/Auth/LoginController.php",
-		"/D/laragon/www/sisdar/web/resources/views/common/form_error.blade.php",
-		"/D/laragon/www/sisdar/web/app/Http/Controllers/NewsController.php",
-		"/D/laragon/www/sisdar/web/resources/views/admin/pengguna_add.blade.php",
-		"/D/laragon/www/sisdar/web/resources/views/admin/pengguna/form.blade.php",
-		"/D/xampp/htdocs/spd1/database/migrations/2018_07_19_200708_calon.php",
-		"/D/xampp/htdocs/spd1/app/Calon.php",
-		"/D/xampp/htdocs/spd1/database/migrations/2014_10_12_000000_create_users_table.php",
-		"/D/xampp/htdocs/spd1/database/migrations/2014_10_12_100000_create_password_resets_table.php",
-		"/D/xampp/htdocs/spd1/resources/views/frontend/layout.blade.php",
-		"/D/xampp/htdocs/spd1/app/Http/Controllers/PortalController.php",
-		"/D/xampp/htdocs/spd1/config/app.php",
-		"/D/xampp/htdocs/spd1/webpack.mix.js",
-		"/D/xampp/htdocs/spd1/app/Http/Controllers/CalonController.php",
-		"/D/laragon/www/sisdar/web/routes/web.php",
-		"/D/xampp/htdocs/spd/app/Http/Controllers/Auth/LoginController.php",
-		"/D/xampp/htdocs/spd/resources/views/frontend/master.blade.php",
-		"/D/xampp/htdocs/spd/config/database.php",
-		"/D/xampp/htdocs/spd/database/migrations/2018_07_19_075403_calon.php",
-		"/D/xampp/htdocs/spd/app/Calon.php",
-		"/D/laragon/www/sisdar/web/resources/views/blank/master.blade.php",
-		"/D/laragon/www/sisdar/web/resources/views/blank.blade.php",
-		"/D/xampp/htdocs/spd/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/controllers/HomeController.stub",
-		"/D/xampp/htdocs/spd-full/routes/web.php"
+		"/D/xampp/htdocs/spd1/storage/framework/views/9be2082e7835c3b1b47a3467e1506ed5ba3f09ca.php"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 51.0
 	},
 	"find_in_files":
 	{
@@ -1028,6 +1098,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"name",
+			"admin",
+			"name",
+			"pingat",
+			"status",
+			"sesi_edit",
+			"pingat",
+			"name",
+			"status",
+			"name",
+			"user.login",
+			"Logout",
+			"logout",
+			"ic",
+			"email",
 			"open",
 			"ic",
 			"logout",
@@ -1096,11 +1181,71 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".env",
+					"file": "resources/views/backend/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/backend/sesi_show.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/backend/sesi_add.blade.php",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 715,
+						"buffer_size": 465,
 						"regions":
 						{
 						},
@@ -1114,13 +1259,201 @@
 						"settings":
 						{
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Exceptions/Handler.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/backend/pencalonan_index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/backend/pencalonan_edit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								257
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Calon.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/backend/pencalonan_form.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/backend/pencalonan_add.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								202
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -1128,7 +1461,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 39.0
 	},
 	"input":
 	{
@@ -1169,7 +1502,7 @@
 	"project": "spd.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1179,16 +1512,188 @@
 		"selected_items":
 		[
 			[
-				"mig sesi",
-				"database\\migrations\\2018_07_24_041813_sesi.php"
+				"bc layout",
+				"resources\\views\\backend\\layout.blade.php"
+			],
+			[
+				"rou web",
+				"routes\\web.php"
+			],
+			[
+				"usercpn",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"PEncalonacon",
+				"app\\Http\\Controllers\\PencalonanController.php"
+			],
+			[
+				"MigrationCommand.php",
+				"vendor\\zizaco\\entrust\\src\\commands\\MigrationCommand.php"
+			],
+			[
+				"pencalonan_form",
+				"resources\\views\\backend\\pencalonan_form.blade.php"
+			],
+			[
+				"rout web",
+				"routes\\web.php"
+			],
+			[
+				"pencalonan_add",
+				"resources\\views\\backend\\pencalonan_add.blade.php"
+			],
+			[
+				"pencalonancon",
+				"app\\Http\\Controllers\\PencalonanController.php"
+			],
+			[
+				"app/calon",
+				"app\\Calon.php"
+			],
+			[
+				"res bc index",
+				"resources\\views\\backend\\index.blade.php"
+			],
+			[
+				"res bc layou",
+				"resources\\views\\backend\\layout.blade.php"
+			],
+			[
+				"pencalonancontroller",
+				"app\\Http\\Controllers\\PencalonanController.php"
+			],
+			[
+				"pencalona",
+				"app\\Http\\Controllers\\PencalonanController.php"
+			],
+			[
+				"rou we",
+				"routes\\web.php"
+			],
+			[
+				"app sesi",
+				"app\\Sesi.php"
+			],
+			[
+				"sesicon",
+				"app\\Http\\Controllers\\SesiController.php"
+			],
+			[
+				"sesi_inde",
+				"resources\\views\\backend\\sesi_index.blade.php"
+			],
+			[
+				"sesi_index",
+				"resources\\views\\backend\\sesi_index.blade.php"
+			],
+			[
+				"app/se",
+				"app\\Sesi.php"
+			],
+			[
+				"app/sesi",
+				"app\\Sesi.php"
 			],
 			[
 				"usercon",
 				"app\\Http\\Controllers\\UserController.php"
 			],
 			[
-				"sesicon",
-				"app\\Http\\Controllers\\SesiController.php"
+				"sesi_form",
+				"resources\\views\\backend\\sesi_form.blade.php"
+			],
+			[
+				"bc layou",
+				"resources\\views\\backend\\layout.blade.php"
+			],
+			[
+				"Illuminate\\Foundation\\Exceptions\\Handler",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"fr lay",
+				"resources\\views\\frontend\\layout.blade.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"back index",
+				"resources\\views\\backend\\index.blade.php"
+			],
+			[
+				"backend index",
+				"resources\\views\\backend\\index.blade.php"
+			],
+			[
+				"usercontroller",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"fr layout",
+				"resources\\views\\frontend\\layout.blade.php"
+			],
+			[
+				"res back index",
+				"resources\\views\\backend\\index.blade.php"
+			],
+			[
+				"usercontoler",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"fr laout",
+				"resources\\views\\frontend\\layout.blade.php"
+			],
+			[
+				"fr index",
+				"public\\frontend\\index.html"
+			],
+			[
+				"usercontrol",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"res layout",
+				"resources\\views\\frontend\\layout.blade.php"
+			],
+			[
+				"res fr index",
+				"resources\\views\\frontend\\index.blade.php"
+			],
+			[
+				"res fr layout",
+				"resources\\views\\frontend\\layout.blade.php"
+			],
+			[
+				"usercont",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"res view fr login",
+				"resources\\views\\frontend\\login.blade.php"
+			],
+			[
+				"app/user",
+				"app\\User.php"
+			],
+			[
+				"res view fr register",
+				"resources\\views\\frontend\\register.blade.php"
+			],
+			[
+				"usecon",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"user",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"mig sesi",
+				"database\\migrations\\2018_07_24_041813_sesi.php"
 			],
 			[
 				"data sesi",
@@ -1207,10 +1712,6 @@
 				"database\\migrations\\2018_07_24_041813_sesi.php"
 			],
 			[
-				"app sesi",
-				"app\\Sesi.php"
-			],
-			[
 				"sesi",
 				"app\\Sesi.php"
 			],
@@ -1221,10 +1722,6 @@
 			[
 				"data mig sesi",
 				"database\\migrations\\2018_07_24_041813_sesi.php"
-			],
-			[
-				"Illuminate\\Foundation\\Exceptions\\Handler",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
 			],
 			[
 				"mi Authenticate",
@@ -1243,16 +1740,8 @@
 				"resources\\views\\backend\\index.blade.php"
 			],
 			[
-				"back index",
-				"public\\backend\\index.html"
-			],
-			[
 				"res fron index",
 				"resources\\views\\frontend\\index.blade.php"
-			],
-			[
-				"user",
-				"app\\Http\\Controllers\\UserController.php"
 			],
 			[
 				"res view lay",
@@ -1261,10 +1750,6 @@
 			[
 				"view common aler",
 				"resources\\views\\common\\alert.blade.php"
-			],
-			[
-				"rou web",
-				"routes\\web.php"
 			],
 			[
 				"res front login",
@@ -1315,10 +1800,6 @@
 				"resources\\views\\common\\delete_button.blade.php"
 			],
 			[
-				"res layout",
-				"resources\\views\\backend\\layout.blade.php"
-			],
-			[
 				"resource back inde",
 				"resources\\views\\backend\\index.blade.php"
 			],
@@ -1355,10 +1836,6 @@
 				"app\\Http\\Controllers\\PingatController.php"
 			],
 			[
-				"rou we",
-				"routes\\web.php"
-			],
-			[
 				"migration/",
 				"database\\migrations\\2018_07_20_061936_sesi.php"
 			],
@@ -1369,10 +1846,6 @@
 			[
 				"roue we",
 				"routes\\web.php"
-			],
-			[
-				"web",
-				"webpack.mix.js"
 			],
 			[
 				"homecon",
@@ -1549,146 +2022,6 @@
 			[
 				"dev",
 				"app\\Http\\Controllers\\DevController.php"
-			],
-			[
-				"devco",
-				"app\\Http\\Controllers\\DevController.php"
-			],
-			[
-				"devcon",
-				"app\\Http\\Controllers\\DevController.php"
-			],
-			[
-				"registerlogintest",
-				"tests\\Browser\\RegisterLoginTest.php"
-			],
-			[
-				"pencalonan",
-				"app\\Http\\Controllers\\PencalonanController.php"
-			],
-			[
-				"pencalonan1per",
-				"resources\\views\\admin\\pencalonan\\edit_1peribadi.blade.php"
-			],
-			[
-				"portalcon",
-				"app\\Http\\Controllers\\PortalController.php"
-			],
-			[
-				"userfile",
-				"app\\Userfile.php"
-			],
-			[
-				"commonalert",
-				"resources\\views\\common\\alert.blade.php"
-			],
-			[
-				"interactswithpivottable",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\Concerns\\InteractsWithPivotTable.php"
-			],
-			[
-				"belongtoma",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\BelongsToMany.php"
-			],
-			[
-				"illuminatemodel",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
-			],
-			[
-				"illuminacollection",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php"
-			],
-			[
-				"eloquemodel",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
-			],
-			[
-				"authuser",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\User.php"
-			],
-			[
-				"configentrust",
-				"config\\entrust.php"
-			],
-			[
-				"databgramma",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Grammar.php"
-			],
-			[
-				"databasegramma",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Grammar.php"
-			],
-			[
-				"blank",
-				"resources\\views\\blank.blade.php"
-			],
-			[
-				"hasattributes",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Concerns\\HasAttributes.php"
-			],
-			[
-				"619e008c1be06e6fc96e7bb09be56fa1ac970d17",
-				"storage\\framework\\views\\619e008c1be06e6fc96e7bb09be56fa1ac970d17.php"
-			],
-			[
-				"penggnaform",
-				"resources\\views\\admin\\pengguna\\form.blade.php"
-			],
-			[
-				"superadminpengg",
-				"resources\\views\\admin\\superadmin\\pengguna_edit.blade.php"
-			],
-			[
-				"adminpenggunalis",
-				"resources\\views\\admin\\pengguna_list.blade.php"
-			],
-			[
-				"portaltest",
-				"tests\\Browser\\PortalTest.php"
-			],
-			[
-				"manage_list_dt",
-				"resources\\assets\\js\\admin\\pencalonan\\manage_list_dt.js"
-			],
-			[
-				"gulp",
-				"gulpfile.js"
-			],
-			[
-				"assetsesidt",
-				"resources\\assets\\js\\admin\\sesi\\datatable.js"
-			],
-			[
-				"logincontroller",
-				"app\\Http\\Controllers\\Auth\\LoginController.php"
-			],
-			[
-				"laprancon",
-				"app\\Http\\Controllers\\LaporanController.php"
-			],
-			[
-				"assetglobal",
-				"resources\\assets\\sass\\materialize\\_global.scss"
-			],
-			[
-				"pencalona",
-				"app\\Http\\Controllers\\PencalonanController.php"
-			],
-			[
-				"senarai",
-				"resources\\views\\admin\\pencalonan\\senarai_pencalonan_all_v2.blade.php"
-			],
-			[
-				"publicmate",
-				"public\\css\\materialize-css.css"
-			],
-			[
-				"publimat",
-				"public\\css\\materialize-css.css"
-			],
-			[
-				"materialize-css-card.css",
-				"public\\css\\materialize-css-card.css"
 			]
 		],
 		"width": 0.0
@@ -1701,7 +2034,7 @@
 		[
 			[
 				"",
-				"D:\\xampp\\htdocs\\spd2\\spd2.sublime-project"
+				"D:\\xampp\\htdocs\\spd3\\spd3.sublime-project"
 			],
 			[
 				"l4",
@@ -1721,7 +2054,7 @@
 	"select_symbol":
 	{
 		"height": 392.0,
-		"last_filter": "toRoute",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1783,7 +2116,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 320.0,
+	"side_bar_width": 357.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
