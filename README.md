@@ -6,5 +6,8 @@
 4. `copy .env.example .env`
 5. `composer install`
 6. `php artisan key:generate`
+7. Change `.env` config for DB
+8. Create database for project
+9. `php artisan migrate:fresh --seed`
 
 Goto: localhost/spd10/public
