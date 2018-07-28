@@ -1,4 +1,5 @@
 # SPD
+Laravel 5.6
 ## Installation
 1. Cd into `htdocs` folder.
 2. `git clone git@github.com:rahman541/spd.git spd10`
